@@ -1,0 +1,7 @@
+Top git commands to remember -
+Gitint
+Git commit
+Git add 
+Git add . 
+Git log 
+Git status
